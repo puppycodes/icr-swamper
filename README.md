@@ -15,6 +15,7 @@ Stick it on a Raspberry Pi if you fancy.
 
 ## Example output
 
+```
 ben@Hilly:~/projects/icr-swamper$ php visit-random.php 
 Visited http://usa.gov/ [200]
 ben@Hilly:~/projects/icr-swamper$ php visit-random.php 
@@ -23,5 +24,6 @@ ben@Hilly:~/projects/icr-swamper$ php visit-random.php
 Visited http://bigcommerce.com/ [200]
 ben@Hilly:~/projects/icr-swamper$ php visit-random.php 
 Visited http://stumbleupon.com/ [200]
+```
 
 This is just a concept. I'm sure there are ways this kind of traffic could be excluded. 
